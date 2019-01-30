@@ -14,10 +14,10 @@ step6  --> MySQL server need to be installed and running
 
 step7  --> Tables need to be created as in the database in schema
 
-step8  --> Make sure that crd folder is created for send emails with email.crd, password.crd and host.crd.
-		  email.crd should contain email in base64 format
-		  password.crd should contain password in base64 format
-		  host.crd should contain host address in base64 format
+step8  --> Make sure that crd folder is created for send emails with email.crd, password.crd and host.crd.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;email.crd should contain email in base64 format<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;password.crd should contain password in base64 format<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;host.crd should contain host address in base64 format<br/>
 		  
 step9  --> Connect the RFID scanner and open Arduino code file and execute it
 
