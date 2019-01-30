@@ -1,0 +1,11 @@
+threading
+pymysql
+queue
+datetime
+pyserial
+random
+schedule
+smtplib
+base64
+email
+time
